@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @accidentalgenius09
+- 👋 Hi, I’m Surjith K
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
