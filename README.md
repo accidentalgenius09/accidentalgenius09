@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surjith K
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MEARN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
